@@ -1,1 +1,36 @@
-creating manually
+<body>
+        <h1>Hello World</h1>
+        <h2>Hello World</h2>
+        <h3>Hello World</h3>
+        <h4>Hello World</h4>
+        <h5>Hello World</h5>
+        <h6>Hello World</h6>
+
+        <!-- no sequence  -->
+        <ul type="circle">
+            <li>Apple</li> 
+            <li>Kiwi</li> 
+            <li>Mango</li> 
+            <li>Grapes</li> 
+        </ul>
+
+         <!-- sequence  -->
+        <ol type="I">
+            <li>Mango</li> 
+            <li>Kiwi</li> 
+            <li>Apple</li>
+            <li>Grapes</li> 
+         </ol>
+
+        <p>I am from newton school.</p>
+        <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg">
+        <img src="./image.jpeg">
+
+        <a href="https://www.google.com" target="_blank">Click to redirect to Google</a>
+
+         <!-- if you dont use target then it will open in same tab  -->
+       
+        <table>
+            
+        </table>
+    </body>
